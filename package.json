@@ -1,0 +1,19 @@
+{
+  "name": "learnpixi",
+  "version": "1.0.0",
+  "description": "My process of learning pixi with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpatwariingenuity/learnPIXI.git"
+  },
+  "author": "Rahul Patwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpatwariingenuity/learnPIXI/issues"
+  },
+  "homepage": "https://github.com/rpatwariingenuity/learnPIXI#readme"
+}
