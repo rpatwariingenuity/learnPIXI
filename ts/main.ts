@@ -5,3 +5,6 @@ let app = new PIXI.Application({
 
 document.body.appendChild(app.view);
 app.renderer.backgroundColor = 0x061639;
+app.renderer.autoResize = true;
+app.renderer.view.style.position = "absolute";
+app.renderer.resize(window.innerWidth, window.innerHeight);
